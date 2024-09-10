@@ -2,5 +2,6 @@
 
 ## GROUP NAME
 
-## CONTRIBUTORS
+### CONTRIBUTORS
+- Thamira Randeniya
 
