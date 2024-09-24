@@ -1,7 +1,8 @@
 # COMP 4710 GROUP PROJECT (CAN BE  LATER EDITED TO OUR PROJECT NAME )
 
-## GROUP NAME
+## GROUP 9
 
 ### CONTRIBUTORS
 - Thamira Randeniya
+- Ginelle Temull
 
